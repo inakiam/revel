@@ -19,6 +19,8 @@ All code is currently not licenced. However,
 
 # FAQ
 
-**Where does the Godot Project File and scenes fall in the Licencing structure?**
+**Where do the Godot Project File and scenes fall in the Licencing structure?**
 
-They don't. Non-code, non-art files are under copyright.
+They don't. Non-code, non-art files are under copyright. Our final intent is for a total release of these assets under CC - either once the project makes back it's cost plusenough money to fund or partially fund the next game, or six years after release.
+
+Aknowledge the impossibility of preventing cracks, We ask that piracy groups who put together a warez version of the game please ask their audience to buy a copy if they enjoy it/
